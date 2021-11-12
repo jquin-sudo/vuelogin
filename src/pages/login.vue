@@ -70,7 +70,7 @@ const { ready, start } = useTimeout(3000, { controls: true });
             @click="signingUp"
             class="w-1/2 py-2 text-green-200 bg-green-600 rounded-lg"
           >
-            Sing Up
+            Sign Up
           </button>
         </div>
       </form>
