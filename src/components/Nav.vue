@@ -22,7 +22,7 @@ const loggingOut = () => {
         <ul class="flex space-x-4">
           <router-link to="/">
             <li
-              class="px-4 py-8  hover:cursor-pointer hover:bg-green-500 hover:text-yellow-800"
+              class="px-4 py-8  hover:cursor-pointer hover:bg-yellow-500 hover:text-yellow-800"
             >
               Home
             </li>
